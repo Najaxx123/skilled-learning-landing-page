@@ -3,9 +3,10 @@
 }
 
 .top {
+    width: 80%;
     display: flex;
     justify-content: space-between;
-    width: 80%;
+
 }
 
 .head-ancre {
@@ -14,9 +15,15 @@
     color: white;
     text-decoration: none;
     border-radius: 28px;
-    margin-top: 2%;
-    margin-right: 15%;
+    margin-top:  80px;
+    margin-right: 8px;
     padding-top: 8px;
+
+
+
+
+
+
     padding-bottom: 8px;
     padding-left: 8px;
     padding-right: 8px;
@@ -25,13 +32,14 @@
 }
 
 .logo {
-    margin-left: 15%;
-    margin-top: 2%;
+    margin-left:80px;
+    margin-top: 80px ; 
     width: 160px;
 }
 
 h1 {
     font-size: 40px;
+    font-family: "Plus Jakarta Sans", sans-serif;
 }
 
 p {
@@ -39,25 +47,12 @@ p {
     font-size: 16px;
 }
 
+.head {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* 
 .Get-Started {
     display: block;
     background: linear-gradient(to bottom , #FF6F48, #F02AA6);
@@ -65,5 +60,7 @@ p {
     text-decoration: none;
     border-radius: 28px;
     padding-top: 1%;
-} */
+} 
+
+
 
